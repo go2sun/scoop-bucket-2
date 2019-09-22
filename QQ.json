@@ -5,18 +5,9 @@
     "description": "QQ PC版",
     "url": "https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2019.exe",
     "hash": "129107c98d815f9630bc6f673551c53aeef7d9d9421e342b779364ddef393b65",
-    "extract_dir": "QQ",
-    "bin": "QQ.exe",
     "installer": {
-        "file": "PCQQ2019.exe",
-        "args": "/silent"
+        "file": "PCQQ2019.exe"
     },
-    "shortcuts": [
-        [
-            "QQ.exe",
-            "QQ"
-        ]
-    ],
     "autoupdate": {
         "url": "https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2019.exe"
     },

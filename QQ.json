@@ -15,9 +15,9 @@
     ],
     "autoupdate": {
         "url": "https://qd.myapp.com/myapp/qqteam/pcqq/PCQQ2019.exe"
-    }
+    },
     "checkver": {
         "url": "https://im.qq.com/pcqq/",
         "regex": "QQ PC版([\\d.]+)"
-    },
+    }
 }

@@ -10,7 +10,7 @@
     "installer": {
         "file": "PCQQ2019.exe",
         "args": "/silent"
-    }
+    },
     "shortcuts": [
         [
             "QQ.exe",
